@@ -1,4 +1,6 @@
-keras
-numpy
-opencv-python
-dlib
+keras==2.4.1
+numpy==1.17.4
+opencv-python==3.4.1
+dlib==19.22.0
+python==3.6.13
+tensorflow==2.3.1
